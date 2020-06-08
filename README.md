@@ -16,4 +16,4 @@
  - Interface
  - Mixin
 
-> I will update the basic dart sometime
+note: I will update the basic dart sometime
